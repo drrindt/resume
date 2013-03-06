@@ -4,9 +4,10 @@ Susan Rindt, PsyD
 [Markdown](https://raw.github.com/drrindt/resume/master/resume.md) -> [PDF](https://raw.github.com/drrindt/resume/master/resume.pdf), [HTML](http://github.com/drrindt/resume), and more
 <http://github.com/drrindt/resume>
 
-Interests
----------
+Objective
+------------
 
+*FIXME: update this*  
 It is my intention to develop a private clinical practice while
 continuing to provide treatment and services in both hospital and
 community-based settings.  At this time, I provide individual therapy,
@@ -23,17 +24,16 @@ Clinical Experience
 
 *   **Aurora Behavioral Healthcare** (San Diego, CA)
 
-    Director of Psychological Services, April 2006—present
-  
+    Director of Psychology, April 2007—present  
     Director of Military Programs, April 2008—present  
 
-    - *Duties*: lkasjdfljsd lkasjdfljsd lkasjdfljsd lkasjdfljsd
+    - *Duties*: *FIXME*: lkasjdfljsd lkasjdfljsd lkasjdfljsd lkasjdfljsd
        lkasjdfljsd lkasjdfljsd lkasjdfljsd lkasjdfljsd lkasjdfljsd
        lkasjdfljsd lkasjdfljsd lkasjdfljsd lkasjdfljsd lkasjdfljsd
        lkasjdfljsd lkasjdfljsd  
          
   
-*   **Clinical Private Practice** (Del Mar, CA / La Mesa, CA)
+*   **Clinical Private Practice** (Coronade, CA / Del Mar, CA / La Mesa, CA)
 
     August 2003—present
 
@@ -176,8 +176,11 @@ General Experience
 
 *   **Psychiatric And Therapeutic Health Services, Inc.** (Del Mar, CA)
 
-    Vice President and CFO, July 2010—Present
-
+    Founding Member, Vice President and CFO, July 2010—Present
+    
+    - Managing partner of a clinical mental health group practice serving 
+      primarily military families.
+    - Responsible for clinical oversight, marketing, and day-to-day operations
 
 *   **California School of Professional Psychology** (San Diego)
 
@@ -248,6 +251,7 @@ Education
   
 *   **Continuing Education**
 
+    - FIXME: all your military CEs
     - Aging and Long Term Care, Rekindling Desire in Couples, 2005
     - HIPPA Made Friendly, 2004
     - Treatment Planning Made Simple, 2004
@@ -258,6 +262,8 @@ Education
 
 Awards
 ------
+
+*   FIXME: Military program award (or was that Aurora)
 
 *   **BEST Scholarship** 
 
