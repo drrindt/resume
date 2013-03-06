@@ -1,8 +1,8 @@
 Susan Rindt, PsyD
 ===============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
+[Markdown](https://raw.github.com/drrindt/resume/master/resume.md) -> [PDF](https://raw.github.com/drrindt/resume/master/resume.pdf), [HTML](http://github.com/drrindt/resume), and more
+<http://github.com/drrindt/resume>
 
 Interests
 ---------
@@ -30,8 +30,9 @@ Clinical Experience
     - *Duties*: lkasjdfljsd lkasjdfljsd lkasjdfljsd lkasjdfljsd
        lkasjdfljsd lkasjdfljsd lkasjdfljsd lkasjdfljsd lkasjdfljsd
        lkasjdfljsd lkasjdfljsd lkasjdfljsd lkasjdfljsd lkasjdfljsd
-       lkasjdfljsd lkasjdfljsd
-
+       lkasjdfljsd lkasjdfljsd  
+         
+  
 *   **Clinical Private Practice** (Del Mar, CA / La Mesa, CA)
 
     August 2003—present
