@@ -4,19 +4,22 @@ Susan Rindt, PsyD
 [Markdown](https://raw.github.com/drrindt/resume/master/resume.md) -> [PDF](https://raw.github.com/drrindt/resume/master/resume.pdf), [HTML](http://github.com/drrindt/resume), and more
 <http://github.com/drrindt/resume>
 
-Objective
+Summary
 ------------
 
-**FIXME: update this**
-It is my intention to develop a private clinical practice while
-continuing to provide treatment and services in both hospital and
-community-based settings.  At this time, I provide individual therapy,
+I am an independent consultant for several organizations providing case
+consultation, training seminars and program development services. My
+clinical interests and expertise include: trauma (combat, personal
+sexual assault, child physical and sexual abuse); acute psychiatric
+disorders; grief and loss; substance abuse; relationship issues and
+communication patterns; anxiety and eating disorders;  specific learning
+difficulties; and adolescent, developmental, and disorders of childhood.
+
+I also maintain a private clinical practice while continuing to provide
+treatment services and consultation supervision in both hospital and
+community-based settings.  At this time I provide individual therapy,
 group therapy, and psychological testing services to diverse
-populations.  My clinical interests and expertise include: trauma;
-physical and sexual abuse; acute psychiatric disorders; grief and loss;
-substance abuse; relationship issues and communication patterns; anxiety
-and eating disorders; specific learning difficulties; and adolescent,
-developmental, and geriatric issues.
+populations.
 
 Education
 ---------
@@ -31,13 +34,13 @@ Education
 
 *   **University of Stirling** (Scotland, UK)
 
-    B.Sc. Psychology, June 1998
-  
+    B.Sc. Psychology, First class distinction, June 1998
 
 *   **Certifications**
 
     - Certified Prolonged Exposure Therapy clinician
-    - Certified Cognitive Processing Therapy clinician
+    - Additional specialist training in Cognitive Processing Therapy and
+      EMDR
 
 
 Clinical Experience
@@ -49,31 +52,36 @@ Clinical Experience
 
     - Program development, organization and management of intensive
       inpatient residential treatment program for active duty service
-      members.
+      members and their families.
     - Manage a staff of 15 directly and oversee operations of multiple
-      other departments
-    - Provide direct therapy treatment for PTSD and Substance Use
-      disorders as well as multiple psychiatric and personality
-      disorders.
+      other departments.
+    - Provide direct therapy treatment for PTSD and co-occuring
+      substance use disorders as well as multiple psychiatric and
+      personality disorders.
     - Clinical supervision and training of licensed professionals
-      working in this program
+      working in this program.
     - Administrative duties including department accounting, case
       management, treatment team, utilization review,
       business development and assisting in personnel decisions.
     - **FIXME**: Marketing and outreach to military bases through the western
-      United States, Alaska, and Hawaii
+      United States, Alaska, and Hawaii.
+    - Development, outreach, and business development to military personnel
     - Liaison between nursing staff, social work department, utilization
       review, psychiatrists, and the psychology department
-    - **FIXME**: some mention of working with military insurers (Tricare, etc)
+    - **FIXME**: some mention of working with military insurers
+      (Tricare, etc)
+    - Research project development and trial on programmatic **?FIXME?**
+      and new initiatives and conjunction with UCSD, VA, SDSU and
+      location MFTs.
       
 *   **Director of Psychology**, April 2007—present  
 
     Contractor to Aurora Behavioral Healthcare, San Diego, CA
     
-    
-    - Clinical supervision and training of 7 predoctoral and 3
+    - Clinical supervision and training of 9 predoctoral and 3
       postdoctoral interns in group therapy, individual therapy, testing
-      batteries, and initial assessment.
+      batteries, and initial assessment in an acute psychiatric
+      population.
     - Group and individual therapy with acute inpatient and outpatient
       psychiatric patients.
     - Administrative duties including departmental accounting, case
@@ -85,7 +93,7 @@ Clinical Experience
   
 *   **Clinical Private Practice/Hospital Consultant**, August 2003—present
 
-    Locations: Coronado, CA / Del Mar, CA / La Mesa, CA
+    Locations: Coronado, CA / Del Mar, CA / Vista, CA
     
     - *Treatment modalities*: Individual psychotherapy using a variety
       of therapeutic techniques including cognitive behavioral therapy,
@@ -93,13 +101,11 @@ Clinical Experience
       therapy and long term models used where appropriate.
 
     - *Consulting and Training Services*: Individual psychotherapy using
-       a variety of therapeutic techniques including cognitive
-       behavioral therapy, family systems theory, and insight-oriented
-       modalities.  Brief therapy and long term models used where
-       appropriate
-      
-    - *Hospital Privileges*: Bayview Behavioral Health/Paradise Valley,
-       Sharp Mesa Vista, Alvarado Parkway Institute
+      a variety of therapeutic techniques including cognitive behavioral
+      therapy, family systems theory, and insight-oriented modalities.
+      Brief therapy and long term models used where appropriate
+
+    - *Hospital Privileges*: Aurora Behavioral Health Care
 
 *   **Assistant Director of Psychological Services**, August 2003—January 2004
 
@@ -108,8 +114,10 @@ Clinical Experience
     - Clinical supervision and training of 6 predoctoral and 3
       postdoctoral interns in group therapy, individual therapy, testing
       batteries, and initial assessment.
+
     - Group and individual therapy with acute inpatient and outpatient
       psychiatric patients.
+
     - Administrative duties including departmental accounting, case
       management, treatment team, utilization review, and assisting in
       personnel decisions.  Liaison between nursing staff, social work
@@ -159,32 +167,21 @@ General Experience
 
 *   **Founding Member, Vice President and CFO**, July 2010—Present
 
-    Psychiatric And Therapeutic Health Services, Inc., Del Mar, CA
+    P.A.T.H.S., Psychiatric And Therapeutic Health Services, Inc., Del Mar, CA
     
     - Managing partner of a clinical mental health group practice serving 
-      primarily military families.
-    - Responsible for clinical oversight, marketing, and day-to-day operations
-
-*   **International Student Mentor Program Coordinator**, August 2000—August 2001
-
-    California School of Professional Psychology, San Diego
-
-    - Mentoring students from overseas with diverse backgrounds
-    - Supervision of other mentors (13 in total)
-
-*   **Senior and Childrens' Representative**, March 1993—October 1995
-
-    Thompson Holidays, Ibiza, Spain
-
-    - Responsible for the control and maintenance of holiday venues and
-      care of both vacationing children and their parents
+      primarily military spouses and families.
+    - Responsible for clinical oversight, marketing, and day-to-day
+      operations
+    - Financial management and accounting
 
 *   **Assistant Manager**, August 1989—March 1993
 
     B & Q, Plc., Glasgow, Scotland, UK
 
-    - Personnel, administration, and systems manager.  Staff trainer.
-      Responsible for 70 staff and 54,000 sq. ft. of retail space.
+    - Personnel, administration, and systems manager.  
+    - Responsible for 70 staff and 54,000 sq. ft. of retail space.
+    - Staff trainer. **FIXME**: Expand
 
 Teaching Experience
 -------------------
@@ -196,27 +193,49 @@ Teaching Experience
     - Dissertation Orientation
     - Developmental Psychology
     - Social Psychology
+    
+Research Experience
+-------------------
 
-Volunteer Experience
---------------------
+*   **Trauma Related Guilt Reduction (TRG-R)**, **FIXME**: Dates
 
-*   **Care Assistant**, August 1990—June 1997
+    With VA Hospital, UC San Diego and Aurora Behavioral Healthcare
 
-    Craighalbert Centre, Glasgow, Scotland, UK
-  
-    - Attended to severe and profoundly mentally and physically
-      handicapped youths, particularly autistic children.
+    - Clinical treatment protocol addressing treatment resistant guilt
+      in OIF/OEF combat service members.
+    
+*   **Computerized Treatment for PTSD symptom reduction**, **FIXME**: Dates 
+    
+    With SDSU, VA Hospital, UC San Diego, and Aurora Behavioral
+    Healthcare
+    
+    - Clinical treatment protocol for anxiety aspect of PTSD and the
+      relationship to symptom severity
+    
+*   **Efficacy of PTSD treatments in the inpatient setting**, **FIXME**: Dates 
 
-*   **Care Assistant**, March 1993—October 1994
+    With Aurora Behavioral Health Care, San Diego, CA
+    
+    - Clinical assessments, diagnosis and treatment longitudinal outcome
+      study of over 700 OIF/OEF service members
+      
+*   **Sudden Sibling Loss**: Reflections of Women on Their Experience
+    During Adolescence.
+      
+*   **Coronary Bypass Dissertation**: **FIXME:**
 
-    Spanish Youth Action Group, Ibiza, Spain
-  
-    - Assisted with outreach program for adolescent substance abusers
+
 
 Awards
 ------
 
-*   **FIXME**: Military program award (or was that Aurora)
+*   **San Diego Mental Health Community Honoree**, 2009
+
+    - **FIXME**: For Development of Best Military Treatment Program
+    
+*   **Best 24-hr Military Treatment Program**
+
+    - **FIXME**:
 
 *   **BEST Scholarship** 
 
@@ -238,13 +257,6 @@ Additional Certifications and Continuing Education
 --------------------------------------
 
 *   FIXME: all your military CEs
-*   Aging and Long Term Care, Rekindling Desire in Couples, 2005
-*   HIPPA Made Friendly, 2004
-*   Treatment Planning Made Simple, 2004
-*   Spousal Abuse: Assessment, Detection, and Intervention Strategies, 2004
-*   Principals and Practices of Clinical Supervision, 2003
-*   Human Sexuality, Domestic Violence, Chemical Dependency I and II, 2002  
-
 
 Professional Affiliations
 -------------------------
