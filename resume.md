@@ -50,7 +50,7 @@ Clinical Experience
 
     Contractor to Aurora Behavioral Healthcare, San Diego, CA
 
-    - Program development, organization and management of intensive
+    - Program development and management of intensive
       inpatient residential treatment program for active duty service
       members and their families.
     - Manage a staff of 15 directly and oversee operations of multiple
