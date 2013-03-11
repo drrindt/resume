@@ -34,14 +34,20 @@ Education
 
 *   **University of Stirling** (Scotland, UK)
 
-    B.Sc. Psychology, First class distinction, June 1998
+    B.Sc. (Hons) Psychology, First class distinction, June 1998
 
 *   **Certifications**
 
     - Certified Prolonged Exposure Therapy clinician
+       Center for the Tretament & Study of Anxiety, University of Pennsylvania
+       Supervisors: Edna Foa, Phd, Elna Yadin, Phd, and Elizabeth Hembree, Phd
+       
     - Certified Prolonged Exposre Therapy Trainor ( in progress)
-    - Additional specialist training in Cognitive Processing Therapy and
-      EMDR
+      Center for the Tretament & Study of Anxiety, University of Pennsylvania
+       Supervisors: Edna Foa, Phd, Elna Yadin, Phd, and Elizabeth Hembree, Phd
+       
+    - Additional specialist training in Cognitive Processing Therapy ( VA San Diego)
+    and  EMDR ( EMDR Institute, Inc) 
 
 
 Clinical Experience
@@ -64,14 +70,13 @@ Clinical Experience
     - Administrative duties including department accounting, case
       management, treatment team, utilization review,
       business development and assisting in personnel decisions.
-    -  Business Development, comminity outreach, and  education services to Command military personnel in Western US.
+    - Education,  business Development and comminity outreach services to Command military personnel in Western US.
     - Liaison between nursing staff, social work department, utilization
-      review, psychiatrists, and the psychology department
-    - **FIXME**: some mention of working with military insurers
-      (Tricare, etc)
-    - Research project development and trial on program efficacy **?FIXME?**
+      review, psychiatrists, and the psychology department.
+    - Liason and collaboration with Triwest/Tricare and other goverment sponsored services for insurnace fulfillment
+    - Research project development and trials on program efficacy.
       and new treatment initiatives in conjunction with UCSD, VA, SDSU and
-      location MFTs.
+      location Military Treatment Facilities.
       
 *   **Director of Psychology**, April 2007—present  
 
@@ -168,11 +173,14 @@ General Experience
 
     P.A.T.H.S., Psychiatric And Therapeutic Health Services, Inc., Del Mar, CA
     
-    - Managing partner of a clinical mental health group practice serving 
+    - Managing partner of a clinical mental health  corporation group practice serving 
       primarily military spouses and families.
+    - Developed Programs and Business/ Marketing strategies
+    - Managament of clinical staff, education, supervision and training
     - Responsible for clinical oversight, marketing, and day-to-day
       operations
-    - Financial management and accounting
+    - Financial management and accounting for corportaion
+    - Liason with Insurnace Companies for provision of services and credentialing of staff
 
 *   **Assistant Manager**, August 1989—March 1993
 
@@ -180,13 +188,14 @@ General Experience
 
     - Personnel, administration, and systems manager.  
     - Responsible for 70 staff and 54,000 sq. ft. of retail space.
-    - Staff trainer. **FIXME**: Expand
+    - Staff trainer. Education, develeopment and training of all staff across all departmental teams.
 
 Teaching Experience
 -------------------
 
-Insert here:  Presenter: Variety of seminars and training on PTSD, Military Culture,  Evidence Based Tretament Modalities, Research and Efficacy of clinical Programs
+Insert here:  Presenter: Variety of  education seminars and training on PTSD, Military Culture, Evidence Based Tretament Modalities, Research and Efficacy of clinical Programs
  ( audience Licensed Professinal in the field of Psycholgoy, Psychiatry, Social Services, Marraige and Family Therapy,  Military Command, Active Duty, and VA providers and Staff
+August 2009- present
 
 *   **Teaching Assistant**, August 1999—May 2001
 
@@ -198,34 +207,35 @@ Insert here:  Presenter: Variety of seminars and training on PTSD, Military Cult
 Research Experience
 -------------------
 
-*   **Trauma Related Guilt Reduction (TRG-R)**, **FIXME**: Dates
+*   **Trauma Related Guilt Reduction (TRG-R): Adjunctive Guilt Treatment for OEF/OIF Service members with PTSD, (2011)
+Sonya Norman, Ph.D, Kendall Wilkins, B.A,  Carolyn Allard, Ph.D. Susan Rindt, PsyD, and Julia Kusian, PsyD.
+University of California San Diego/VA San Diego Health Care System, San Diego State University, VA Center of Excellence in Stress and Mental Health, & Aurora Behavioral Health
 
-    With VA Hospital, UC San Diego and Aurora Behavioral Healthcare
-
+    
     - Clinical treatment protocol addressing treatment resistant guilt
       in OIF/OEF combat service members.
     
-*   **Computerized Treatment for PTSD symptom reduction**, **FIXME**: Dates 
+*   **The Role of Attention Training for PTSD: Computerized Treatment for PTSD symptom reduction**,(2010) Nader Amir, PhD, Sonya Norman, Phd, & Susan Rindt, PsyD
+    Center for understanding and tretaing anxiety, San Diego State University, University of California Sam Diego, and Aurora Behavioral Health Care
     
-    With SDSU, VA Hospital, UC San Diego, and Aurora Behavioral
-    Healthcare
     
     - Clinical treatment protocol for anxiety aspect of PTSD and the
       relationship to symptom severity
     
-*   **Efficacy of PTSD treatments in the inpatient setting**, 2008-2013
-       
-    With Aurora Behavioral Health Care, San Diego, CA
+*   **Efficacy of PTSD and Co-occuring Disorder treatments in the inpatient setting**, (2008-2013) Susan Rindt, PsyD, Julia Kusian, PsyD & Brittany Davis, PhD
+     - Clinical Tretament protocols to assess and monitor efficacy of all PTSD, Substance Use, Co-occurring and Mood Disorder Programs 
+        Aurora Behavioral Health Care, San Diego, CA
     
     - Clinical assessments, diagnosis and treatment longitudinal outcome
-      study of over 700 OIF/OEF service members
-       Longtitudinal outcome Studies  6, mothm 1 year, 2 year and 5 year post Treatment
+      study of over 700 OIF/OEF service members, pre and post treatment and
+      6 month, 1 year, 2 year and 5 year post treatment follow up.
       
 *   **Sudden Sibling Loss**: Reflections of Women on Their Experience
-    During Adolescence.
+    During Adolescence. (2001) Susan Rind, PsyD 
+     California School of Professional Psychology, San Diego
       
-*   **Coronary Bypass Dissertation**: **FIXME:**
-
+*   ** The Effects of Psychosocial Factors on Coronary Artery Bypass Surgery Outcome, (1998) Susan Mulholland, BSc.( Hons)
+       University of Stirling, Scotland.
 
 
 Awards
@@ -233,7 +243,7 @@ Awards
 
 *   **San Diego Mental Health Community Honoree**, 2010
 
-    - **FIXME**:  Individuval Award for Recognition  For Development of Military Treatment Program
+    - Individuval Award for Recognition  For Development of Military Treatment Program
     
 *   **Best 24-hr Military Treatment Program**
 
@@ -253,14 +263,34 @@ Awards
 
     - Won fully funded scholarship (tuition and expenses) to study
       psychology overseas at the University of California, Irvine for one
-      year.
+      year. (1996-1997)
 
-Additional Certifications and Continuing Education
+Additional Certifications and Continuing Education  ( past 5 years)
 --------------------------------------
 
+*  Supervision II: Advanced Topics, Ethics and Law, June 2012
+*  Military Cultural Competence, Feb 2012
+*  Philosphy of Integrated Treatment, Dec 2011
+*  Crisis Intervention for Co-Morbid and Complex Populations, Dec 2011
+*  EMDR Basics Training Weekend 2,  Novemeber, 2011
+*  Dialetcial Behavior Therapy Skills Training, (Marsh Linehan, Phd), Sept, 2011
+*  EMDR Basic Training Weekend 1, June 2011
+*  Foundations of Clinical Supervision, Dec 2009
+*  Prolonged Exposure Therapy for Chronic PTSD, ( Edna Foa, Phd) Nov 2009
+*  Cognitivce Processing Therapy for PTSD, ( VA sam Diego), Jan 2009
+*  Addressing the Psychological Health of Warriors and Their Families, PTSD, Depression and TBI, Sept 2008
+*  Prolonged Exposure Therapy for PTSD I, July, 2008
+*  Risk and Resilency Factors in PTSD, July 2008
+*  PTSD and the difficult Client, using a Developmental Model, July, 2008
+*  PTSD and Substance Abuse: Dual Diagnoses Overview and Treatment, June 2008
+*  Cognitive Behavioral Interventions for PTSD, June 2008
+*  Group  Therapy and Assemment for PTSD, June 2008
+*  Overcoming Barriers to PTSD Tretaments, JUne 2008
+*  From Counselor to Coach, Making the transition, April, 2008
 *  
+*    
 
-Professional Affiliations
+*  Professional Affiliations
 -------------------------
 
 *   American Psychological Association
