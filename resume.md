@@ -68,6 +68,9 @@ Clinical Experience
       inpatient residential treatment program for active duty service
       members and their families
 
+    - Education, business development and community outreach services to
+      military command and personnel at bases throughout the Western US
+
     - Manage a staff of 15 directly and oversee operations of multiple
       other departments
 
@@ -81,9 +84,6 @@ Clinical Experience
     - Administrative duties including department accounting, case
       management, treatment team, utilization review, business
       development and assisting in personnel decisions
-
-    - Education, business development and community outreach services
-      to **FIXME:** command military personnel in Western US
 
     - Liaison between nursing staff, social work department, utilization
       review, psychiatrists, and the psychology department
