@@ -7,8 +7,8 @@ Susan Rindt, PsyD
 Summary
 ------------
 
-I am an independent consultant for several organizations providing case
-consultation, training seminars and program development services. My
+I am an independent consultant and clinician for several organizations providing case
+consultation, training and education seminars,program development services and managerial oversight. My
 clinical interests and expertise include: trauma (combat, personal
 sexual assault, child physical and sexual abuse); acute psychiatric
 disorders; grief and loss; substance abuse; relationship issues and
@@ -17,8 +17,8 @@ difficulties; and adolescent, developmental, and disorders of childhood.
 
 I also maintain a private clinical practice while continuing to provide
 treatment services and consultation supervision in both hospital and
-community-based settings.  At this time I provide individual therapy,
-group therapy, and psychological testing services to diverse
+community-based settings.  At this time I provide individual, group, family and couples therapy,
+as well aspsychological testing services to diverse
 populations.
 
 Education
@@ -39,6 +39,7 @@ Education
 *   **Certifications**
 
     - Certified Prolonged Exposure Therapy clinician
+    - Certified Prolonged Exposre Therapy Trainor ( in progress)
     - Additional specialist training in Cognitive Processing Therapy and
       EMDR
 
@@ -46,7 +47,7 @@ Education
 Clinical Experience
 --------------------
 
-*   **Director of Military Programs**, April 2008—present  
+*   **Clinical Director of Military Programs**, April 2008—present  
 
     Contractor to Aurora Behavioral Healthcare, San Diego, CA
 
@@ -58,20 +59,18 @@ Clinical Experience
     - Provide direct therapy treatment for PTSD and co-occuring
       substance use disorders as well as multiple psychiatric and
       personality disorders.
-    - Clinical supervision and training of licensed professionals
+    - Clinical supervision, education and training of licensed professionals
       working in this program.
     - Administrative duties including department accounting, case
       management, treatment team, utilization review,
       business development and assisting in personnel decisions.
-    - **FIXME**: Marketing and outreach to military bases through the western
-      United States, Alaska, and Hawaii.
-    - Development, outreach, and business development to military personnel
+    -  Business Development, comminity outreach, and  education services to Command military personnel in Western US.
     - Liaison between nursing staff, social work department, utilization
       review, psychiatrists, and the psychology department
     - **FIXME**: some mention of working with military insurers
       (Tricare, etc)
-    - Research project development and trial on programmatic **?FIXME?**
-      and new initiatives and conjunction with UCSD, VA, SDSU and
+    - Research project development and trial on program efficacy **?FIXME?**
+      and new treatment initiatives in conjunction with UCSD, VA, SDSU and
       location MFTs.
       
 *   **Director of Psychology**, April 2007—present  
@@ -79,7 +78,7 @@ Clinical Experience
     Contractor to Aurora Behavioral Healthcare, San Diego, CA
     
     - Clinical supervision and training of 9 predoctoral and 3
-      postdoctoral interns in group therapy, individual therapy, testing
+      postdoctoral interns in group therapy, individual therapy, psychologial testing
       batteries, and initial assessment in an acute psychiatric
       population.
     - Group and individual therapy with acute inpatient and outpatient
@@ -96,9 +95,9 @@ Clinical Experience
     Locations: Coronado, CA / Del Mar, CA / Vista, CA
     
     - *Treatment modalities*: Individual psychotherapy using a variety
-      of therapeutic techniques including cognitive behavioral therapy,
+      of therapeutic techniques including Cognitive Behavioral Therapy,
       family systems theory, and insight-oriented modalities.  Brief
-      therapy and long term models used where appropriate.
+      therapy and long term models used where appropriate. 
 
     - *Consulting and Training Services*: Individual psychotherapy using
       a variety of therapeutic techniques including cognitive behavioral
@@ -165,7 +164,7 @@ Clinical Experience
 General Experience
 ------------------
 
-*   **Founding Member, Vice President and CFO**, July 2010—Present
+*   **Founding Member, Vice President and CFO**, July 2011—Present
 
     P.A.T.H.S., Psychiatric And Therapeutic Health Services, Inc., Del Mar, CA
     
@@ -186,13 +185,15 @@ General Experience
 Teaching Experience
 -------------------
 
+Insert here:  Presenter: Variety of seminars and training on PTSD, Military Culture,  Evidence Based Tretament Modalities, Research and Efficacy of clinical Programs
+ ( audience Licensed Professinal in the field of Psycholgoy, Psychiatry, Social Services, Marraige and Family Therapy,  Military Command, Active Duty, and VA providers and Staff
+
 *   **Teaching Assistant**, August 1999—May 2001
 
     California School of Professional Psychology (San Diego)
 
-    - Dissertation Orientation
-    - Developmental Psychology
-    - Social Psychology
+    - Dissertation Orientation, Developmental Psychology, Social Psychology
+    
     
 Research Experience
 -------------------
@@ -212,12 +213,13 @@ Research Experience
     - Clinical treatment protocol for anxiety aspect of PTSD and the
       relationship to symptom severity
     
-*   **Efficacy of PTSD treatments in the inpatient setting**, **FIXME**: Dates 
-
+*   **Efficacy of PTSD treatments in the inpatient setting**, 2008-2013
+       
     With Aurora Behavioral Health Care, San Diego, CA
     
     - Clinical assessments, diagnosis and treatment longitudinal outcome
       study of over 700 OIF/OEF service members
+       Longtitudinal outcome Studies  6, mothm 1 year, 2 year and 5 year post Treatment
       
 *   **Sudden Sibling Loss**: Reflections of Women on Their Experience
     During Adolescence.
@@ -229,13 +231,13 @@ Research Experience
 Awards
 ------
 
-*   **San Diego Mental Health Community Honoree**, 2009
+*   **San Diego Mental Health Community Honoree**, 2010
 
-    - **FIXME**: For Development of Best Military Treatment Program
+    - **FIXME**:  Individuval Award for Recognition  For Development of Military Treatment Program
     
 *   **Best 24-hr Military Treatment Program**
 
-    - **FIXME**:
+    - Awarded to Aurora  Behavioral Health Care, recceived on their behalf for inpatient program
 
 *   **BEST Scholarship** 
 
@@ -256,7 +258,7 @@ Awards
 Additional Certifications and Continuing Education
 --------------------------------------
 
-*   FIXME: all your military CEs
+*  
 
 Professional Affiliations
 -------------------------
@@ -266,3 +268,4 @@ Professional Affiliations
 *   California Psychological Association
 *   San Diego Psychological Association
 
+References available on request.
