@@ -1,9 +1,6 @@
 Susan Rindt, PsyD
 ===============
 
-[Markdown](https://raw.github.com/drrindt/resume/master/resume.md) -> [PDF](https://raw.github.com/drrindt/resume/master/resume.pdf), [HTML](http://github.com/drrindt/resume), and more
-<http://github.com/drrindt/resume>
-
 Summary
 ------------
 
@@ -53,8 +50,9 @@ Education
         * Supervisors: Edna Foa, PhD, Elna Yadin, PhD, and Elizabeth
           Hembree, PhD
        
-    - Additional specialist training in Cognitive Processing Therapy (VA
-      San Diego) and EMDR (EMDR Institute, Inc)
+    -  Cognitive Processing Therapy (VA San Diego) Specialist Training
+    
+     -  EMDR additional training (EMDR Institute, Inc)
 
 
 Clinical Experience
