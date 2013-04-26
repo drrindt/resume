@@ -52,7 +52,7 @@ Education
        
     -  Cognitive Processing Therapy (VA San Diego) Specialist Training
     
-     -  EMDR additional training (EMDR Institute, Inc)
+    -  EMDR additional training (EMDR Institute, Inc)
 
 
 Clinical Experience
